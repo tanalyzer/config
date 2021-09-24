@@ -2,5 +2,6 @@
   "reg_server_url":"https://inststat.com/api/",
   "check_reg":"true",
   "r_url":"",
+  'r_title':"",
   "r_message":"Download new version"
 }
