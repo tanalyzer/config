@@ -1,7 +1,7 @@
 {
   "reg_server_url":"https://inststat.com/api/",
   "check_reg":"true",
-  "r_url":"example.com",
+  "r_url":"https://docs.google.com/document/d/1_PMV4m3iZuf0LVbL5oA285Ii16Uhst18ifKM0pJU598",
   "r_title":"Dear user",
   "r_message":"Download new version"
 }
