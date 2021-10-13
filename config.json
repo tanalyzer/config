@@ -1,8 +1,8 @@
 {
   "reg_server_url":"https://inststat.com/api/",
-  "check_reg":"false",
+  "check_reg":"1",
   "r_url":"",
   "r_title":"",
   "r_message":"",
-  "show_open_ads":"3"
+  "show_open_ads":"1"
 }
