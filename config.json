@@ -1,6 +1,6 @@
 {
   "reg_server_url":"https://inststat.com/api/",
-  "check_reg":"1",
+  "check_reg":"true",
   "r_url":"",
   "r_title":"",
   "r_message":"",
