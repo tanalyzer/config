@@ -1,7 +1,7 @@
 {
-  "sub_screen_button":"Subscribe",
-  "spec_offer_screen_button":"Subscribe",
-  "norgsub_screen_button":"Continue",
-  "norgspec_offer_screen_button":"Continue",
+  "sub_screen_o_button":"Subscribe",
+  "spec_offer_screen_o_button":"Subscribe",
+  "sub_screen_n_button":"Continue",
+  "spec_offer_screen_n_button":"Continue",
   "fade_in":"0"
 }
