@@ -1,7 +1,7 @@
 {
-  "sub_screen_o_button":"Subscribe",
-  "spec_offer_screen_o_button":"Subscribe",
-  "sub_screen_n_button":"Start FREE Trial",
+  "sub_screen_o_button":"Start FREE Trial",
+  "spec_offer_screen_o_button":"Start FREE Trial",
+  "sub_screen_n_button":"Continue",
   "spec_offer_screen_n_button":"Continue",
   "animation":"true"
   "fade_in":"3"
