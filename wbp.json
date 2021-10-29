@@ -3,6 +3,6 @@
   "spec_offer_screen_o_button":"Subscribe11",
   "sub_screen_n_button":"Continue2",
   "spec_offer_screen_n_button":"Continue22",
-  "animation":"false"
+  "animation":"true"
   "fade_in":"3"
 }
