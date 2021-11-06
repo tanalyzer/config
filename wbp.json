@@ -1,8 +1,8 @@
 {
-  "sub_screen_o_button":"Subscribe",
-  "spec_offer_screen_o_button":"Subscribe",
+  "sub_screen_o_button":"Continue",
+  "spec_offer_screen_o_button":"Continue",
   "sub_screen_n_button":"Continue",
   "spec_offer_screen_n_button":"Continue",
-  "animation":"false",
-  "fade_in":"0"
+  "animation":"true",
+  "fade_in":"4"
 }
