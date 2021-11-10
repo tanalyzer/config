@@ -5,5 +5,13 @@
   "r_title":"",
   "r_message":"",
   "show_open_ads":"1",
-  "version":"1.32"
+  "version":"1.32",
+  "iaps":{
+    "Coins_Pack_1": 20,
+    "Coins_Pack_2": 50,
+    "Coins_Pack_3": 125,
+    "Coins_Pack_4": 270,
+    "Coins_Pack_5": 600,
+    "super_price": 600
+  }
 }
