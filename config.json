@@ -8,12 +8,12 @@
   "version":"1.33",
   "iaps":{
     "com.tok.analyzer":{
-      "Coins_Pack_1": 20,
-      "Coins_Pack_2": 55,
-      "Coins_Pack_3": 125,
-      "Coins_Pack_4": 270,
-      "Coins_Pack_5": 600,
-      "super_price": 600
+      "Coins_Pack_1": 40,
+      "Coins_Pack_2": 110,
+      "Coins_Pack_3": 250,
+      "Coins_Pack_4": 540,
+      "Coins_Pack_5": 1200,
+      "super_price": 1200
     },
     "com.tags.tikpop":{
       "Coins_Pack_1": 20,
