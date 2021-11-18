@@ -1,8 +1,8 @@
 {
   "sub_screen1_button":"Start my 3-days free trial",
   "sub_screen2_button":"Start free trial",
-  "sub_screen1_price_string_opacity":"0.2",
-  "sub_screen2_price_string_opacity":"0.2",
+  "sub_screen1_price_string_opacity":"0.5",
+  "sub_screen2_price_string_opacity":"0.5",
   "sub_screen1_price_value":"9.99",
   "sub_screen2_price_value":"4.99",
   "sub_screen2_enabled":"true"
