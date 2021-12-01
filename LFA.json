@@ -1,0 +1,5 @@
+{
+  "winScreenReplacement":"false",
+  "winScreenButtonText":"Start Trial",
+  "public int minLevelForWinScreenReplacement":"3"
+}
