@@ -4,8 +4,8 @@
   "r_url":"",
   "r_title":"",
   "r_message":"",
-  "show_open_ads":"2",
-  "version":"1.38",
+  "show_open_ads":"1",
+  "version":"1.39",
   "version_2":"1.5",
   "iaps":{
     "com.tok.analyzer":{
