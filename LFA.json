@@ -1,5 +1,5 @@
 {
-  "winScreenReplacement":"false",
+  "winScreenReplacement":"true",
   "winScreenButtonText":"Start Trial",
   "minLevelForWinScreenReplacement":"3"
 }
