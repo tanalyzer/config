@@ -1,5 +1,7 @@
 {
   "winScreenReplacement":"true",
   "winScreenButtonText":"Start Trial",
-  "minLevelForWinScreenReplacement":"3"
+  "minLevelForWinScreenReplacement":"3",
+  "subscribeButtonText_Android":"Subscribe",
+  "subscribeButtonText_Ios":"Start Free Trial"
 }
