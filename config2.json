@@ -1,0 +1,29 @@
+{
+  "reg_server_url":"https://inststat.com/api/",
+  "check_reg":"true",
+  "r_url":"",
+  "r_title":"",
+  "r_message":"",
+  "show_open_ads":"1",
+  "version":"1.40",
+  "version_2":"1.9",
+  "show_hashtag_search":"false",
+  "iaps":{
+    "com.tok.analyzer":{
+      "Coins_Pack_1": 40,
+      "Coins_Pack_2": 110,
+      "Coins_Pack_3": 250,
+      "Coins_Pack_4": 540,
+      "Coins_Pack_5": 1200,
+      "super_price": 1200
+    },
+    "com.tags.tikpop":{
+      "coins_pack_1": 20,
+      "coins_pack_2": 50,
+      "coins_pack_3": 125,
+      "coins_pack_4": 270,
+      "coins_pack_5": 600,
+      "super_price": 600
+    }
+  }
+}
