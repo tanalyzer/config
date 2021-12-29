@@ -4,10 +4,10 @@
   "r_url":"",
   "r_title":"",
   "r_message":"",
-  "show_open_ads":"1",
+  "show_open_ads":"2",
   "version":"1.40",
   "version_2":"1.9",
-  "show_hashtag_search":"false",
+  "show_hashtag_search":"true",
   "iaps":{
     "com.tok.analyzer":{
       "Coins_Pack_1": 40,
