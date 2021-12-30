@@ -1,10 +1,10 @@
 {
   "reg_server_url":"https://inststat.com/api/",
-  "check_reg":"false",
+  "check_reg":"true",
   "r_url":"",
   "r_title":"",
   "r_message":"",
-  "show_open_ads":"1",
+  "show_open_ads":"2",
   "version":"1.40",
   "version_2":"2.0",
   "show_hashtag_search":"true",
