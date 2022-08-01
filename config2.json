@@ -18,12 +18,12 @@
       "super_price": 1200
     },
     "com.tags.tikpop":{
-      "coins_pack_1": 20,
-      "coins_pack_2": 50,
-      "coins_pack_3": 125,
-      "coins_pack_4": 270,
-      "coins_pack_5": 600,
-      "super_price": 600
+      "coins_pack_1": 40,
+      "coins_pack_2": 110,
+      "coins_pack_3": 300,
+      "coins_pack_4": 700,
+      "coins_pack_5": 1300,
+      "super_price": 2000
     }
   }
 }
